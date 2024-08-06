@@ -1,0 +1,11 @@
+Node#
+1 passo
+npm init -y : para iniciar um projeto node.
+
+npm install express: para o instalar o express dentro do projeto
+npm install chalk inquirer: dependencia dentro do projeto para receber input pelo terminal
+
+node nomeArquivo.extençãoDoarquivo para iniciar o arquivo em node.
+node index.js --nome=JOse --idade=30: passando dados para os parametros do projeto via terminal 
+
+npm install --save-dev nodmon : dependencia de desenvolvimento para reiniciar o projeto sempre que salvo
