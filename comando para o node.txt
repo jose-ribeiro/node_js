@@ -9,3 +9,7 @@ node nomeArquivo.extençãoDoarquivo para iniciar o arquivo em node.
 node index.js --nome=JOse --idade=30: passando dados para os parametros do projeto via terminal 
 
 npm install --save-dev nodmon : dependencia de desenvolvimento para reiniciar o projeto sempre que salvo
+
+npm install nodemon express express-handlebars - instalação conjunta de pacotes necessarios para um projeto
+
+npm install bcrypt cookie´parser cors express jsonwebtoken mongoose multer nodemon = criando projeto backend 
